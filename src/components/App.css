@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+    color: blue;
+    padding: 15px;
+    font-family: Helvetica, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    color: red;
+}
